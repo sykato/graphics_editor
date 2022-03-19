@@ -75,5 +75,32 @@ namespace graphics_editor
         {
             _selectedBrush = new QuadBrush(SelectedColor, SelectedSize);
         }
+
+        private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (_selectedBrush == null)
+            {
+                return;
+            }
+            _selectedBrush.Draw(pictureBox1.Image as Bitmap, _x, _y);
+            pictureBox1.Refresh();
+            _mouseClicked = true;
+        }
+
+        private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
+        {
+            _mouseClicked=false;
+        }
+
+        private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
+        {
+            _x = e.X > 0 ? e.X : 0;
+            _y = e.Y > 0 ? e.Y : 0;
+            if (_mouseClicked)
+            {
+                _selectedBrush.Draw (pictureBox1.Image as Bitmap, _x, _y);
+                pictureBox1.Refresh();
+            }
+        }
     }
 }
