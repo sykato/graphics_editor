@@ -1,0 +1,17 @@
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\bin\Debug\net6.0-windows\graphics_editor.exe
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\bin\Debug\net6.0-windows\graphics_editor.deps.json
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\bin\Debug\net6.0-windows\graphics_editor.runtimeconfig.json
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\bin\Debug\net6.0-windows\graphics_editor.dll
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\bin\Debug\net6.0-windows\ref\graphics_editor.dll
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\bin\Debug\net6.0-windows\graphics_editor.pdb
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.csproj.AssemblyReference.cache
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.Form1.resources
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.csproj.GenerateResource.cache
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.AssemblyInfoInputs.cache
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.AssemblyInfo.cs
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.csproj.CoreCompileInputs.cache
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.dll
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\ref\graphics_editor.dll
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.pdb
+C:\Users\tere\source\repos\graphics_editor\graphics_editor\obj\Debug\net6.0-windows\graphics_editor.genruntimeconfig.cache
